@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <style>
+        img#ni-flagRight {
+            float: right
+        }
+
+        img#ni-flagLeft {
+            float: left
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Float Right</h2>
+
+    <p>In this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap
+        around the image.</p>
+
+    <p>
+        <img id="ni-flagRight" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAADFBMVEUAh1H///8AilT2+/n9jvcLAAABYUlEQVR4nO3QSQ0AMAzAsB38OQ9EpD4mm0Gy1pRz95B7xqLm2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2Jd8ue8Bm4BGz7FpXvgAAAAASUVORK5CYII=" alt="tree" style="width:100px;height:100px;">
+        <img id="ni-flagLeft" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAADFBMVEUAh1H///8AilT2+/n9jvcLAAABYUlEQVR4nO3QSQ0AMAzAsB38OQ9EpD4mm0Gy1pRz95B7xqLm2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2JfYl9iX2Jd8ue8Bm4BGz7FpXvgAAAAASUVORK5CYII=" alt="tree" style="width:100px;height:100px;">
+        This is a dummy content used to understand float property
+    </p>
+</body>
+
+</html>
